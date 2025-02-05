@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @esun01
+- 👋 Hi, I’m @jason
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning my fundamentals on data structures and algorithm
 - 💞️ I’m looking to collaborate on ... im not sure on what
